@@ -1,6 +1,6 @@
 # Facial Expression Recognition using CNN
 
-* Develop a facial expression recognition model in Keras
-* Build and train a convolutional neural network (CNN)
-* Deploy the trained model to a web interface with Flask
-* Apply the model to real-time video streams and image data
+* Development of a facial expression recognition model in Keras
+* Building and training a convolutional neural network (CNN)
+* Deployment of the trained model to a web interface with Flask
+* Applying the model to real-time video streams and image data
